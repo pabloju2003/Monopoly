@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-//I have added a comment“ Miau
+//I have added a comment“ Miau 2
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
